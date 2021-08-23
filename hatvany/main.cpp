@@ -13,9 +13,9 @@ int main() {
 
 	int a = 0;
 	int b = 0;
-	std::cout << "Kerem a szamot ";
+	std::cout << "Kerem a szamot: ";
 	std::cin >> a;
-	std::cout << "Kerem a kitevot ";
+	std::cout << "Kerem a kitevot: ";
 	std::cin >> b;
 	std::cout << hatvany(a,b);
 
